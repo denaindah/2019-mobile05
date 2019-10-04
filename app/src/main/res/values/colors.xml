@@ -6,5 +6,10 @@
     <color name="colorRed">#FF5252</color>
     <color name="colorBlue">#448AFF</color>
     <color name="TextWhite">#FFFFFF</color>
+    <color name="text">#070707</color>
+    <color name="text2">#F8F4F4</color>
+    <color name="pushups">#FDF6A1</color>
+    <color name="dips">#A1EC6E</color>
+    <color name="handstand">#D69BE2</color>
 
 </resources>
